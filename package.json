@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@nestjs/core": "^10.4.13",
+    "@nestjs/platform-fastify": "^10.4.13",
     "reflect-metadata": "^0.2.2"
   },
   "devDependencies": {
