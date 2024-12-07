@@ -1,0 +1,7 @@
+services:
+  server:
+    build:
+      context: .
+    tty: true
+    volumes:
+      - .:/usr/src/app
