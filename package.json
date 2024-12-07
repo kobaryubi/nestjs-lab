@@ -3,7 +3,8 @@
   "scripts": {
     "build": "nest build",
     "start:dev": "nest start --watch",
-    "start:prod": "node dist/main"
+    "start:prod": "node dist/main",
+    "start": "nest start"
   },
   "dependencies": {
     "@nestjs/core": "^10.4.13"
