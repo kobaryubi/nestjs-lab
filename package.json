@@ -4,7 +4,8 @@
     "build": "nest build",
     "start:dev": "nest start --watch",
     "start:prod": "node dist/main",
-    "start": "nest start"
+    "start": "nest start",
+    "nest": "nest"
   },
   "dependencies": {
     "@nestjs/common": "^10.4.13",
